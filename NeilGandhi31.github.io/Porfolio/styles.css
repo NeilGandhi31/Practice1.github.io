@@ -1,0 +1,15 @@
+.container {
+    background-color: bisque;
+
+}
+section {
+    height: 500px;
+    border: solid black 1px;
+
+
+}
+.hero {
+    background-color: blue;
+    height: 100px;
+
+}
